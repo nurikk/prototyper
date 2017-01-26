@@ -11,5 +11,5 @@ say hello to prototype.js mootools and other libraies who modify std objects or 
 6. Paste the javascript code below into the second field.
 
         javascript: (function () {var jsCode = document.createElement('script');
-        jsCode.setAttribute('src', 'https://raw.github.com/nurikk/prototyper/master/prototyper.js');
+        jsCode.setAttribute('src', 'https://cdn.rawgit.com/nurikk/prototyper/c97cd815/prototyper.js');
         document.body.appendChild(jsCode);}());
